@@ -17,6 +17,10 @@ p {
 p.small {
   font-size: 16px;
 }
+p.center{
+   text-align: center;
+  color: red;
+}
 a,
 a:hover,
 a:focus,
