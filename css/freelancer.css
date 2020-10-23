@@ -7,6 +7,9 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: auto;
 }
+figure {
+    margin: 0;
+}
 p {
   font-size: 20px;
 }
